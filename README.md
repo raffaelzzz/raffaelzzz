@@ -7,7 +7,7 @@
 
 My English is technical but I am studying to improve;<br>
 I like to read manga;<br>
-I like traveling and meeting new people;<br>
+I like traveling and meeting new people.<br>
 <br>
 
 
