@@ -23,6 +23,8 @@ I like traveling and meeting new people.<br>
   <code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
   <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
  
+<br>
+
 
 
 
